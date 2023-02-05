@@ -13,5 +13,7 @@
       <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
     </p>
 
-
+## ⭐️ stats ⭐️  
+<div align="center">
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=HwangHarim&show_icons=true)  
+<div>
