@@ -15,5 +15,7 @@
 
 ## ⭐️ stats ⭐️  
 <div align="center">
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=HwangHarim&show_icons=true)  
+ <p>
+  <img src="https://github-readme-stats.vercel.app/api?username=HwangHarim&show_icons=true" alt="stats"/>
+ </p> 
 <div>
