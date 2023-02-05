@@ -12,10 +12,12 @@
       <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MYSQL"/>
       <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
     </p>
+</div>
 
 ## ⭐️ stats ⭐️  
+
 <div align="center">
  <p>
   <img src="https://github-readme-stats.vercel.app/api?username=HwangHarim&show_icons=true" alt="stats"/>
  </p> 
-<div>
+</div>
