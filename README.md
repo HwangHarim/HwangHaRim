@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=HwangHarim&fontSize=90&animation=fadeIn&&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=HwangHaRim&fontSize=90&animation=fadeIn&&descAlignY=51&descAlign=62)
 
 ## 📱 Tech Stack 
 
