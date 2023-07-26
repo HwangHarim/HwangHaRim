@@ -24,5 +24,6 @@
 <div align="center">
  <p>
   <img src="https://github-readme-stats.vercel.app/api?username=HwangHarim&show_icons=true" alt="stats"/>
-     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HwangHarim)](https://github.com/HwangHarim/github-readme-stats)
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HwangHarim)](https://github.com/HwangHarim/github-readme-stats)
  </p> 
