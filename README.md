@@ -1,8 +1,6 @@
 ## 안녕하세요 Back End 개발자 황하림 입니다. 👋
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=HwangHaRim&animation=fadeIn&&descAlignY=51&descAlign=62)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)          
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=HwangHaRim&animation=fadeIn&&descAlignY=51&descAlign=62)  
 
 ## ⚒️ Tech Stack ⚒️
 
@@ -27,3 +25,5 @@
 [![github stats](https://github-readme-stats.vercel.app/api?username=HwangHarim&show_icons=true&hide_border=true)](https://github.com/HwangHarim)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HwangHarim&layout=compact)](https://github.com/HwangHarim)
 </div> 
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2FHwangHarim)](https://hits.seeyoufarm.com)  
