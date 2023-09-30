@@ -1,11 +1,4 @@
 ## 안녕하세요. 으뜸이 되고 싶은 개발자 황하림 입니다.👋
-<div align ="center">
-    <p>
-        모두가 납득하는 설득력 있는 코드가 가독성 좋은 코드라는 생각으로 끊임없이 고민합니다.<br/>
-        모든 코드에 이유있는 코드를 짜기 위해 배운것을 적용하여 지속적인 성장을 이뤄내고 있습니다.<br/>
-    </p>
-</div>
-<div align="center">
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=HwangHarim&show_icons=true&hide_border=true)](https://github.com/HwangHarim)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HwangHarim&layout=compact)](https://github.com/HwangHarim)
