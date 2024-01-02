@@ -1,4 +1,4 @@
-## 안녕하세요. 으뜸이 되고 싶은 개발자 황하림 입니다.👋
+## 안녕하세요. 백엔드 개발자 황하림 입니다.👋
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=HwangHarim&show_icons=true&hide_border=true)](https://github.com/HwangHarim)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HwangHarim&layout=compact)](https://github.com/HwangHarim)
